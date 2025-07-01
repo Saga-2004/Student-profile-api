@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# Uploaded files (images etc.)
+uploads/
+
+# Environment variables (never push this!)
+.env
