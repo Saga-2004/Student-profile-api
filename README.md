@@ -26,7 +26,7 @@ Uses MongoDB for storage and Multer for handling files. Tested via Postman.
 
 ## 📁 Folder Structure
 
-`project-root/ ├── index.js ├── models/ │ └── userModels.js ├── router/ │ └── userRouter.js ├── uploads/ ├── .env └── .gitignore`
+<pre>project-root/ ├── index.js ├── models/ │ └── userModels.js ├── router/ │ └── userRouter.js ├── uploads/ ├── .env └── .gitignore</pre>
 
 ---
 
@@ -50,6 +50,8 @@ MONGO_URI=your_mongodb_connection_string
 npm start
 
 ```
+
+---
 
 🧑‍💻 Author
 Made with ❤️ by Sagar
